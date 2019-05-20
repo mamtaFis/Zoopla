@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="NOI-9TGPQ12" name="tests.searchScenario" tests="1" failures="0" timestamp="9 May 2019 05:20:59 GMT" time="29.557" errors="0">
+  <testcase name="serachLondon" time="29.538" classname="tests.searchScenario"/>
+</testsuite>
