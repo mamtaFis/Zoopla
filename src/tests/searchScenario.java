@@ -24,6 +24,7 @@ public class searchScenario extends homePage {
 		System.out.println("object has been created");
 
 		Thread.sleep(5000);
+		//added sleep time for 5 seconds.
 		System.out.println("waait has been implemented");
 
 		home.searchProperty();
