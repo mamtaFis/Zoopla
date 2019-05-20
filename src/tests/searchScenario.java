@@ -26,7 +26,7 @@ public class searchScenario extends homePage {
 		Thread.sleep(5000);
 		//added sleep time for 5 seconds.
 		System.out.println("waait has been implemented");
-
+                //added comment from git
 		home.searchProperty();
 		System.out.println("click operation has been done");
 
